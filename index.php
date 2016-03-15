@@ -11,7 +11,9 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        echo ciao
+        echo "ciao, questa è una prova del progetto Summer School dove tutti possono modificare documento master Hergy";
+                
+        
         ?>
     </body>
 </html>
