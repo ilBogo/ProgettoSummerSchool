@@ -12,7 +12,7 @@ and open the template in the editor.
     <body>
         <?php
         echo "ciao, questa è una prova del progetto Summer School dove tutti possono modificare documento master Hergy";
-                
+        echo "Ciao, io sono dentro e vedo il progetto --> Bogo";        
         
         ?>
     </body>
